@@ -11,7 +11,7 @@ import java.util.List;
 
 public class EdgeSimulator extends RouteBuilder{
 
-  public static final int MIN = 150;
+  public static final int MIN = 1;
   @Override
   public void configure() throws Exception{
 
